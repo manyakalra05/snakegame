@@ -162,3 +162,5 @@ public class SnakeGame extends JPanel implements ActionListener, KeyListener {
         frame.setVisible(true); // Without this, the frame would be created but wouldn't appear on the screen.
     }
 }
+
+<!-- Update 2024-11-24T10:56:13+05:30 -->
