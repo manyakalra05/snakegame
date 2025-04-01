@@ -183,3 +183,4 @@ public class SnakeGame extends JPanel implements ActionListener, KeyListener {
 <!-- Update 2025-02-11T12:01:07+05:30 -->
 <!-- Update 2025-02-11T12:04:07+05:30 -->
 <!-- Update 2025-02-28T18:23:17+05:30 -->
+<!-- Update 2025-04-01T06:22:33+05:30 -->
